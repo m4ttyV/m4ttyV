@@ -14,7 +14,7 @@
 
 ### 🌍 Contacts
 - 📫 Email: glebmatveev34@gmail.com  
-- 🔗 Telegram: @m4tty_V 
+- 🔗 Telegram: @JustABoor 
 
 ---
 
@@ -34,6 +34,6 @@
 
 ### 🌍 Контакты
 - 📫 Email: glebmatveev34@gmail.com  
-- 🔗 Telegram: @m4tty_V 
+- 🔗 Telegram: @JustABoor 
 
 
