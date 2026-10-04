@@ -50,5 +50,5 @@ Bachelor's — Information Security, PNU
 
 ## Contacts
 
-Email: ...
-Telegram: ...
+Email: glebmatveev34@gmail.com
+Telegram: @JustABoor
