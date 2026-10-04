@@ -1,39 +1,54 @@
-# 👋 Hi, I'm Gleb Matveev
+# Gleb Matveev
 
-💻 Developer | 🐍 Python & ⚙️ C#  
-🎓 Master's student at FEFU (Software & Information Systems Development)  
-🎓 Bachelor's degree from PNU (Information Security)  
+Python / C# Developer focused on backend services, automation and data processing.
 
----
+## About
 
-### 🧑‍💻 About Me
-- 💡 I enjoy building **desktop applications** (Avalonia, WPF)  
-- 🔬 Interested in software architecture, backend development, and applied data analysis  
+I develop backend utilities, data-processing pipelines and desktop applications.
 
----
+Main areas:
+- Python backend and automation
+- processing scientific and geospatial data
+- Dockerized services
+- PostgreSQL / SQLite
+- Linux environments and deployment
+- C# / .NET desktop applications
 
-### 🌍 Contacts
-- 📫 Email: glebmatveev34@gmail.com  
-- 🔗 Telegram: @JustABoor 
+## Tech Stack
 
----
+Python · FastAPI · Flask · PostgreSQL · SQLite  
+Docker · Docker Compose · Linux · Git  
+NumPy · Pandas · Xarray · NetCDF  
+C# · .NET · Avalonia · EF Core · MVVM
 
-# 👋 Привет, я Глеб Матвеев  
+## Featured Projects
 
-💻 Разработчик | 🐍 Python & ⚙️ C#  
-🎓 Магистратура ДВФУ (Разработка программно-информационных систем)  
-🎓 Бакалавриат ТОГУ (Информационная безопасность)  
+### AcousticVision
+Desktop application for room acoustic analysis.
 
----
+C# · .NET 8 · Avalonia · SQLite · EF Core · MVVM
 
-### 🧑‍💻 Обо мне
-- 💡 Люблю разрабатывать **десктопные приложения** (Avalonia, WPF)  
-- 🔬 Интересуюсь архитектурой ПО, backend-разработкой и прикладным анализом данных  
+### ArgoGeoFilter
+Processing pipeline for Argo NetCDF oceanographic profiles with geographic and temporal filtering.
 
----
+Python · Xarray · NetCDF · TEOS-10
 
-### 🌍 Контакты
-- 📫 Email: glebmatveev34@gmail.com  
-- 🔗 Telegram: @JustABoor 
+### OpenVPN SOCKS5 Proxy
+Dockerized OpenVPN + Dante SOCKS5 setup for per-application VPN routing.
 
+Docker · OpenVPN · Dante · Linux networking
 
+### NetCDF Wind Processor
+CLI utility for processing wind fields stored in NetCDF datasets.
+
+Python · NumPy · Xarray · NetCDF
+
+## Education
+
+Master's — Software and Information Systems Development, FEFU  
+Bachelor's — Information Security, PNU
+
+## Contacts
+
+Email: ...
+Telegram: ...
