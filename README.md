@@ -1,47 +1,57 @@
 # Gleb Matveev
 
-Python / C# Developer focused on backend services, automation and data processing.
+Python / C# Developer focused on backend services, automation, data processing and desktop applications.
 
 ## About
 
-I develop backend utilities, data-processing pipelines and desktop applications.
+I develop backend utilities, data-processing pipelines, automation tools and desktop applications.
 
 Main areas:
 - Python backend and automation
-- processing scientific and geospatial data
-- Dockerized services
+- scientific and geospatial data processing
+- Dockerized services and networking utilities
 - PostgreSQL / SQLite
-- Linux environments and deployment
-- C# / .NET desktop applications
+- Linux environments
+- C# / .NET desktop development
 
 ## Tech Stack
 
 Python · FastAPI · Flask · PostgreSQL · SQLite  
 Docker · Docker Compose · Linux · Git  
 NumPy · Pandas · Xarray · NetCDF  
-C# · .NET · Avalonia · EF Core · MVVM
+C# · .NET · Avalonia · WinForms · EF Core · MVVM
 
 ## Featured Projects
 
 ### AcousticVision
-Desktop application for room acoustic analysis.
+Cross-platform desktop application for room acoustic analysis and speech intelligibility estimation.
 
-C# · .NET 8 · Avalonia · SQLite · EF Core · MVVM
+C# · .NET 8 · Avalonia · EF Core · SQLite · MVVM
 
 ### ArgoGeoFilter
-Processing pipeline for Argo NetCDF oceanographic profiles with geographic and temporal filtering.
+CLI tool for filtering and converting Argo oceanographic NetCDF profiles to CSV.
 
-Python · Xarray · NetCDF · TEOS-10
+Python · Xarray · NetCDF · TEOS-10 · GSW
 
 ### OpenVPN SOCKS5 Proxy
-Dockerized OpenVPN + Dante SOCKS5 setup for per-application VPN routing.
+Dockerized SOCKS5 proxy for routing selected application traffic through OpenVPN.
 
 Docker · OpenVPN · Dante · Linux networking
 
-### NetCDF Wind Processor
-CLI utility for processing wind fields stored in NetCDF datasets.
+### SiteHealthChecker
+Python CLI application for periodic website availability and response-time monitoring.
 
-Python · NumPy · Xarray · NetCDF
+Python · HTTP · SQLite · YAML · Logging
+
+### CycloneTrackGenerator
+Python tool for generating cyclone track maps and CSV datasets from PostgreSQL data.
+
+Python · PostgreSQL · Matplotlib · Geospatial data · SMB
+
+### MinesweeperGame-WinForms
+Classic Minesweeper desktop application with separated game logic and UI state management.
+
+C# · .NET 8 · WinForms
 
 ## Education
 
@@ -50,5 +60,5 @@ Bachelor's — Information Security, PNU
 
 ## Contacts
 
-Email: glebmatveev34@gmail.com
+Email: glebmatveev34@gmail.com  
 Telegram: @JustABoor
